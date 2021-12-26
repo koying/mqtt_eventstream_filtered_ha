@@ -1,0 +1,6 @@
+{
+    "name": "MQTT Evenstream (filtered)",
+    "domains": ["mqtt"],
+    "iot_class": ["Local Polling"],
+    "render_readme": true
+  }
